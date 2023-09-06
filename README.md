@@ -16,7 +16,7 @@ Simplify friend management with a single click! 🌟
 ## 🌐 Demo
 Want to see it in action? Click the button below to try the demo now! 👇
 
-[![Demo](https://moumin-pk.github.io/Add-Friend-Feature-with-Same-Button/)]
+[Demo](https://moumin-pk.github.io/Add-Friend-Feature-with-Same-Button/)
 
 ## 🛠️ Technologies
 - HTML5
